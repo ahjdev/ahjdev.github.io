@@ -2,7 +2,8 @@
 layout: test
 title: Test
 ---
-# `danog\MadelineProto\EventHandler\AbstractMessage`
+
+`danog\MadelineProto\EventHandler\AbstractMessage`
 
 Represents an incoming or outgoing message.
 
