@@ -2,6 +2,11 @@
 title: Home
 layout: home
 ---
+<details>
+  <summary>Methods</summary>
+    <li><code><a href="#installation">remove(int $index): bool</a></code></li>
+    <li><code><a href="#installation">count(): int</a></code></li>
+</details>
 
 # Method: account.changeAuthorizationSettings
 [Back to methods index](index.html)
