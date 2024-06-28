@@ -2,10 +2,13 @@
 title: Home
 layout: home
 ---
+<p style="color:red;">Imagick</p> <p style="color:blue;">Imagick</p> <p style="color:red;">implements</p> <a href="https://www.php.net/manual/en/class.iterator.php" style="color:red;">Iterator</a>
+
 ```php
 class a {
 
 }
+// [Link text Here](https://link-url-here.org)
 
 $a = new a();
 $b = new a();
