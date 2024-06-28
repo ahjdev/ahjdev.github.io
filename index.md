@@ -2,7 +2,6 @@
 title: Home
 layout: home
 ---
-<code style="color:red;">class</code> <code style="color:blue;">Imagick</code> <code style="color:red;">implements</code> <a href="https://www.php.net/manual/en/class.iterator.php" style="color:red;">Iterator</a>
 
 <pre language="php" style="color:red;">class</pre><pre language="php" style="color:blue;">Imagick</pre><pre language="php" style="color:red;">implements</pre><pre language="php" style="color:red;"><a href="https://www.example.com">Iterator</a></pre>
 
