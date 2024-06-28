@@ -2,11 +2,6 @@
 layout: test
 title: Test
 ---
-
-`danog\MadelineProto\EventHandler\AbstractMessage`
-
-Represents an incoming or outgoing message.
-
 <details>
   <summary>Properties</summary>
   <li> <code>$id</code> : <code>int</code> Message ID</li>
