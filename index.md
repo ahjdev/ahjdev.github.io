@@ -4,8 +4,8 @@ layout: home
 ---
 <details>
   <summary>Methods</summary>
-    <li href="#installation"><code>remove(int $index): bool</a></code></li>
-    <li href="#installation"><code>count(): int</a></code></li>
+    <li><a href="#installation">🔗</a><code>remove(int $index): bool</code></li>
+    <li><a href="#installation">🔗</a><code>count(): int</code></li>
 </details>
 
 # Method: account.changeAuthorizationSettings
