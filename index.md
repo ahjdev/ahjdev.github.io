@@ -3,7 +3,12 @@ title: Home
 layout: home
 ---
 
-<code><code style="color:red;">class</code><code style="color:blue;">Imagick</code><code style="color:red;">implements</code><code style="color:red;"><a href="https://www.example.com">Iterator</a></code></code>
+<p>
+<code style="color:red;">class </code>
+<code style="color:blue;">Imagick </code>
+<code style="color:red;">implements </code>
+<code style="color:red;"><a href="https://www.example.com">Iterator</a></code>
+</p>
 
 ```php
 class a {
