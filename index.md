@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+title: Test
+layout: #test.md
 ---
 <details>
   <summary>Methods</summary>
