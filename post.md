@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Post
 nav_enabled: false
 ---
 
