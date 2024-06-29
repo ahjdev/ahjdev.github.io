@@ -6,11 +6,18 @@ title: Test
 # Test
 <details>
   <summary>Properties</summary>
+  <dl>
+    <dt><code>$id</code></dt>
+    <dd><code>int</code> Message ID</dd>
+    <dt><code>$chatId</code></dt>
+    <dd><code>int</code> ID of the chat where the message was sent</dd>
+    <dt><code>$out</code></dt>
+    <dd><code>bool</code> Whether the message is outgoing</dd>
+  </dl>
   <li> <code>$id</code> : <code>int</code> Message ID</li>
   <li> <code>$out</code> : <code>bool</code> Whether the message is outgoing</li>
   <li> <code>$chatId</code> : <code>int</code> ID of the chat where the message was sent</li>
 </details>
-
 <details>
   <summary>Methods</summary>
   <li> <a href="#felan"><code>isReply(): bool</code></a></li>
