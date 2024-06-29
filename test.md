@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Test
+color_scheme: light
 ---
 [Link button](https://just-the-docs.com){: .btn }
 
