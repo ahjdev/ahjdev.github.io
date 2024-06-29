@@ -2,6 +2,10 @@
 title: Home
 layout: home
 ---
+<nav>
+  <a href="/">Home</a>
+  <a href="/about.html">About</a>
+</nav>
 <details>
   <summary>Methods</summary>
     <li><a href="#installation">🔗</a><code>remove(int $index): bool</code></li>
