@@ -13,7 +13,7 @@ title: Test
 
 <details>
   <summary>Methods</summary>
-  <li> <a href="#felan"><code>isReply(): bool</code></a>
-  <li> <a href="#felan"><code>delete(boolean $revoke = true): void</code></a>
-  <li> <a href="#felan"><code>read(bool $readAll = false): boolean</code></a>
+  <li> <a href="#felan"><code>isReply(): bool</code></a></li>
+  <li> <a href="#felan"><code>delete(boolean $revoke = true): void</code></a></li>
+  <li> <a href="#felan"><code>read(bool $readAll = false): boolean</code></a></li>
 </details>
