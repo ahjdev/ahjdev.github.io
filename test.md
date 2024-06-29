@@ -3,12 +3,6 @@ layout: default
 title: Test
 ---
 [Link button](https://just-the-docs.com){: .btn }
-{% highlight php %}
-class a extends [felan](https://just-the-docs.com){
-
-}
-{% endhighlight %}
-
 
 # Test
 <details>
