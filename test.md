@@ -4,7 +4,7 @@ title: Test
 color_scheme: light
 ---
 
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight">Just the time<br><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
 
 felan
