@@ -11,8 +11,13 @@ color_scheme: light
 
 <h1><code>Reymon\Types\Message</code></h1>
 
+```php
+final class Message extends Foo {
+  use Felan;
+}
+```
 Represents a query sent by the user by clicking on a button.
-{: .highlight }
+{: .note }
 
 > - [Methods](#Methods){: .btn .btn-purple}
 > - [Properties](#Properties){: .btn .btn-purple}
