@@ -3,8 +3,9 @@ layout: default
 title: Test
 color_scheme: light
 ---
-- [Properties](/#Properties)
-- [Methods](/#Methods)
+- [Properties](#Properties)
+- [Methods](#Methods)
+
 ## Properties
   <li> <code>$id</code> : <code>int</code> Message ID</li>
   <li> <code>$out</code> : <code>bool</code> Whether the message is outgoing</li>
