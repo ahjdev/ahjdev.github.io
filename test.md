@@ -4,9 +4,9 @@ title: Test
 color_scheme: light
 ---
 
-<div class="highlight">
+<figrue class="highlight">
 <pre class="language-php" data-lang="php"><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre>
-</div>
+</figrue> - just test
 
 
 
