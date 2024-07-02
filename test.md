@@ -3,7 +3,8 @@ layout: default
 title: Test
 color_scheme: light
 ---
-- NamespaceReymon\Types
+# Reymon\Types\Message
+
 - [Properties](#Properties)
 - [Methods](#Methods)
 
