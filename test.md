@@ -7,12 +7,7 @@ color_scheme: light
 <figure class="highlight">
   <code class="language-ruby" data-lang="ruby">
   <pre>
-    <span class="k"><a href="#felan">def</a></span>
-    <a color=red href="#felan">def</a>
-    <span class="nf">foo</span>
-    <span class="nb">puts</span>
-    <span class="s1">'foo'</span>
-    <span class="k">end</span>
+    <span class="nb">public</span>&nbsp;<span class="s1">'int'</span>&nbsp;<span class="k">$date</span>
   </pre>
   </code>
 </figure>
