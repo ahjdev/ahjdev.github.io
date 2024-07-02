@@ -3,6 +3,30 @@ layout: default
 title: Test
 color_scheme: light
 ---
+
+<figure class="highlight">
+  <code class="language-ruby" data-lang="ruby">
+    <div class="table-wrapper">
+      <table class="rouge-table">
+        <tbody>
+          <tr>
+            <td class="gutter gl">
+              <pre class="lineno">
+1
+2
+3
+              </pre>
+              <td class="code">
+                <pre>
+<span class="k">def</span>
+<span class="nf">foo</span>
+<span class="nb">puts</span>
+<span class="s1">'foo'</span>
+<span class="k">end</span>
+                </pre>
+</figure>
+
+
 <h1><code>Reymon\Types\Message</code></h1>
 
 Represents a query sent by the user by clicking on a button.
