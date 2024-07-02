@@ -8,6 +8,7 @@ color_scheme: light
   <code class="language-ruby" data-lang="ruby">
   <pre>
     <span class="k"><a href="#felan">def</a></span>
+    <a color=red href="#felan">def</a>
     <span class="nf">foo</span>
     <span class="nb">puts</span>
     <span class="s1">'foo'</span>
