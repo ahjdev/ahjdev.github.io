@@ -8,6 +8,7 @@ color_scheme: light
 <pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre>
 </figure>
 
+This is *red*{: style="color: red"}.
 
 <h1><code>Reymon\Types\Message</code></h1>
 
