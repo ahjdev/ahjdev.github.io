@@ -5,7 +5,7 @@ color_scheme: light
 ---
 
 <figure class="highlight">
-<pre class="language-php" data-lang="php"><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre>
+<pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre>
 </figure>
 
 
