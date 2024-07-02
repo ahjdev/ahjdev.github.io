@@ -7,7 +7,9 @@ color_scheme: light
 <figure class="highlight">
   <code class="language-ruby" data-lang="ruby">
   <pre>
-    <span class="k">def</span><span class="nf">foo</span><span class="nb">puts</span>
+    <span class="k">def</span>
+    <span class="nf">foo</span>
+    <span class="nb">puts</span>
     <span class="s1">'foo'</span>
     <span class="k">end</span>
   </pre>
