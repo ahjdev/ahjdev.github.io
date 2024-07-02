@@ -4,12 +4,8 @@ title: Test
 color_scheme: light
 ---
 
-<div class="highlight"><pre class="highlight"><code><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span>
+<div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
 </code></pre></div>
-
-```php
-public int $date
-```
 
 <h1><code>Reymon\Types\Message</code></h1>
 
