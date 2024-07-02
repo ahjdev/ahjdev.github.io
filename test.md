@@ -4,9 +4,9 @@ title: Test
 color_scheme: light
 ---
 
-<code class="highlight">
+<pre class="highlight">
 <pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre>
-</code>
+</pre>
 
 <h1><code>Reymon\Types\Message</code></h1>
 
