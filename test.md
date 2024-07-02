@@ -4,28 +4,13 @@ title: Test
 color_scheme: light
 ---
 
-<figure class="highlight">
-  <code class="language-ruby" data-lang="ruby">
-    <div class="table-wrapper">
-      <table class="rouge-table">
-        <tbody>
-          <tr>
-            <td class="gutter gl">
-              <td class="code">
-                <pre>
-<span class="k">def</span>
-<span class="nf">foo</span>
-<span class="nb">puts</span>
-<span class="s1">'foo'</span>
-<span class="k">end</span>
-                </pre>
-              </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-</figure>
-
+<pre>
+  <span class="k">def</span>
+  <span class="nf">foo</span>
+  <span class="nb">puts</span>
+  <span class="s1">'foo'</span>
+  <span class="k">end</span>
+</pre>
 
 <h1><code>Reymon\Types\Message</code></h1>
 
