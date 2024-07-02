@@ -13,7 +13,7 @@ Represents a query sent by the user by clicking on a button.
 > - `public`[`string`](#felan)`$name` - Message ID
 > - `$out` : `bool` Whether the message is outgoing
 > - `$chatId` : `int` ID of the chat where the message was sent
-> - 
+
 ### Constants
 > - `public const int $flag` - Class flag
 
