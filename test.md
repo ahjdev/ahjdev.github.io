@@ -3,7 +3,7 @@ layout: default
 title: Test
 color_scheme: light
 ---
-> <h1><code>Reymon\Types\Message</code></h1>
+<h1><code>Reymon\Types\Message</code></h1>
 {: .highlight}
 > - Represents a query sent by the user by clicking on a button.
 > - [Methods](#Methods){: .btn .btn-purple}
