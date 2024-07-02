@@ -11,11 +11,6 @@ color_scheme: light
         <tbody>
           <tr>
             <td class="gutter gl">
-              <pre class="lineno">
-1
-2
-3
-              </pre>
               <td class="code">
                 <pre>
 <span class="k">def</span>
