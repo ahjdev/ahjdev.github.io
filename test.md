@@ -4,7 +4,9 @@ title: Test
 color_scheme: light
 ---
 
-  <code class="language-php" data-lang="php"><pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre></code>
+<figure class="highlight">
+<pre class="language-php" data-lang="php"><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre>
+</figure>
 
 
 
