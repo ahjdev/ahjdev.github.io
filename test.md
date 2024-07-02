@@ -8,7 +8,8 @@ color_scheme: light
 - [Methods](#Methods)
 
 ### Properties
-{{test | .text-yellow-100}}
+test
+{: .text-yellow-100}
 > - `public string $name` - Message ID
 > - `$out` : `bool` Whether the message is outgoing
 > - `$chatId` : `int` ID of the chat where the message was sent
