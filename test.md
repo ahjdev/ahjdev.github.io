@@ -8,6 +8,10 @@ color_scheme: light
 <code><pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre></code>
 </figure>
 
+```php
+public int $date
+```
+
 <h1><code>Reymon\Types\Message</code></h1>
 
 Represents a query sent by the user by clicking on a button.{ .note }
