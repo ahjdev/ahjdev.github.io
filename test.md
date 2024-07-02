@@ -4,13 +4,18 @@ title: Test
 color_scheme: light
 ---
 
-<pre>
-  <span class="k">def</span>
-  <span class="nf">foo</span>
-  <span class="nb">puts</span>
-  <span class="s1">'foo'</span>
-  <span class="k">end</span>
-</pre>
+<figure class="highlight">
+  <code class="language-ruby" data-lang="ruby">
+  <pre>
+    <span class="k">def</span>
+    <span class="nf">foo</span>
+    <span class="nb">puts</span>
+    <span class="s1">'foo'</span>
+    <span class="k">end</span>
+  </pre>
+  </code>
+</figure>
+
 
 <h1><code>Reymon\Types\Message</code></h1>
 
