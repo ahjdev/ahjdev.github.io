@@ -4,9 +4,9 @@ title: Test
 color_scheme: light
 ---
 
-<figure class="highlight">
-  <code class="language-php" data-lang="php"><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></code>
-</figure>
+
+  <code class="highlight class="language-php" data-lang="php"></code><pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></code></pre>
+
 
 
 <h1><code>Reymon\Types\Message</code></h1>
