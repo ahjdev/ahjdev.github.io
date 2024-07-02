@@ -12,6 +12,6 @@ color_scheme: light
 > - `$chatId` : `int` ID of the chat where the message was sent
 
 ### Methods
-> [`isReply(): bool`]("#felan")\
-> [`delete(boolean $revoke = true): void`]("#felan")\
-> [`read(bool $readAll = false): boolean`]("#felan")
+> - [`isReply(): bool`](#felan) - Whether this message replied
+> - [`delete(boolean $revoke = true): void`](#felan) - Delete message
+> - [`read(bool $readAll = false): boolean`](#felan) - Mark message as read
