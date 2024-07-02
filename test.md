@@ -4,7 +4,6 @@ title: Test
 color_scheme: light
 ---
 > # Reymon\Types\Message
-
 > - [Properties](#Properties){: .btn .btn-purple}
 > - [Methods](#Methods){: .btn .btn-purple}
 
