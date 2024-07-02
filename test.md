@@ -19,6 +19,11 @@ color_scheme: light
 <span class="s1">'foo'</span>
 <span class="k">end</span>
                 </pre>
+              </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 </figure>
 
 
