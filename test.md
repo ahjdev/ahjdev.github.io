@@ -6,7 +6,7 @@ color_scheme: light
 
 <figure class="highlight">
   <code class="language-ruby" data-lang="ruby">
-  <pre><span class="nb">public</span>&nbsp;<span class="s1">'int'</span>&nbsp;<span class="k">$date</span></pre></code>
+  <pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre></code>
 </figure>
 
 
