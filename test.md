@@ -7,6 +7,12 @@ color_scheme: light
 <div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
 </code></pre></div>
 
+felan
+
+```php
+public int $date
+```
+
 <h1><code>Reymon\Types\Message</code></h1>
 
 > Represents a query sent by the user by clicking on a button.{ .note }
