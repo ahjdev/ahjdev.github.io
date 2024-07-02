@@ -4,10 +4,10 @@ title: Test
 color_scheme: light
 ---
 
-<figure class="highlight">
+<pr class="highlight">
 <code class="language-php" data-lang="php"><pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span>
 </pre></code>
-</figure>
+</pr>
 
 
 
