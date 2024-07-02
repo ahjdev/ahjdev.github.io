@@ -5,7 +5,8 @@ color_scheme: light
 ---
 
 <figrue class="highlight">
-<code><pre class="language-php" data-lang="php"><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre></code>
+<code class="language-php" data-lang="php">
+  <pre><span class="nb">public</span>&nbsp;<span class="s1">int</span>&nbsp;<span class="k">$date</span></pre></code>
 </figrue>
 
 
