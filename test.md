@@ -9,7 +9,7 @@ color_scheme: light
 > - [Methods](#Methods){: .btn .btn-purple}
 > - [Properties](#Properties){: .btn .btn-purple}
 ### Properties
-> - `public `[`string`](#felan)` $name` - Message ID
+> - `public`[`string`](#felan)`$name` - Message ID
 > - `$out` : `bool` Whether the message is outgoing
 > - `$chatId` : `int` ID of the chat where the message was sent
 ### Constants
