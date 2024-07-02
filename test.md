@@ -9,10 +9,7 @@ color_scheme: light
 - [Methods](#Methods)
 
 ### Properties
-
-{4t .text-yellow-100}
-
-> - `public string $name` - Message ID
+> - `public [string](#felan) $name` - Message ID
 > - `$out` : `bool` Whether the message is outgoing
 > - `$chatId` : `int` ID of the chat where the message was sent
 
