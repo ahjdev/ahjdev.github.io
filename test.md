@@ -17,6 +17,7 @@ Represents a query sent by the user by clicking on a button.{ .note }
 
 > - [Methods](#Methods){: .btn .btn-purple}
 > - [Properties](#Properties){: .btn .btn-purple}
+> - [Properties](#Constants){: .btn .btn-purple}
 
 ### Properties
 > - `public`[`string`](#felan)`$name` - Message ID
