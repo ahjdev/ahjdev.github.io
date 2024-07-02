@@ -4,8 +4,8 @@ title: Test
 color_scheme: light
 ---
 > # Reymon\Types\Message
-> - [Properties](#Properties){: .btn .btn-purple}
 > - [Methods](#Methods){: .btn .btn-purple}
+> - [Properties](#Properties){: .btn .btn-purple}
 
 ### Properties
 > - `public `[`string`](#felan)` $name` - Message ID
