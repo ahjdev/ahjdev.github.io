@@ -9,8 +9,7 @@ color_scheme: light
 
 <h1><code>Reymon\Types\Message</code></h1>
 
-Represents a query sent by the user by clicking on a button.{ .note }
-
+> Represents a query sent by the user by clicking on a button.{ .note }
 > - [Properties](#Properties){: .btn .btn-purple}
 > - [Constants](#Constants){: .btn .btn-purple}
 > - [Methods](#Methods){: .btn .btn-purple}
