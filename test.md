@@ -30,15 +30,15 @@ color_scheme: light
 ### Methods
 > Whether this message replied
 ```php
-isReply(): bool
+public function isReply(): bool
 ```
 
 > Delete message
 ```php
-delete(boolean $revoke = true): void
+public function delete(boolean $revoke = true): void
 ```
 
 > Mark message as read
 ```php
-read(bool $readAll = false): boolean
+public function read(bool $readAll = false): boolean
 ```
