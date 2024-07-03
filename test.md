@@ -28,7 +28,7 @@ color_scheme: light
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
 ### Methods
-> Whether this message replied
+> - Whether this message replied
 ```php
 isReply(): bool
 ```
@@ -38,7 +38,7 @@ isReply(): bool
 delete(boolean $revoke = true): void
 ```
 
-> Mark message as read
+> - Mark message as read
 ```php
 read(bool $readAll = false): boolean
 ```
