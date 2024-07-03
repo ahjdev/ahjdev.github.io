@@ -34,10 +34,12 @@ color_scheme: light
 ```php
 isReply(): bool
 ```
+
 > - Delete message
 ```php
 delete(boolean $revoke = true): void
 ```
+
 > - Mark message as read
 ```php
 read(bool $readAll = false): boolean
