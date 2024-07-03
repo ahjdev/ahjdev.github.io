@@ -26,7 +26,19 @@ color_scheme: light
 ### Constants
 > - `public const int $flag` - Class flag
 
+<blockquote> <p>Class flag</p><div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <code><span class="nb">const</span> <a href="#felan"><span class="s1">int</span></a> <span class="k">$flag</span>
+</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
+
 ### Methods
-> - [`isReply(): bool`](#felan) - Whether this message replied
-> - [`delete(boolean $revoke = true): void`](#felan) - Delete message
-> - [`read(bool $readAll = false): boolean`](#felan) - Mark message as read
+> - Whether this message replied
+```php
+isReply(): bool
+```
+> - Delete message
+```php
+delete(boolean $revoke = true): void
+```
+> - Mark message as read
+```php
+read(bool $readAll = false): boolean
+```
