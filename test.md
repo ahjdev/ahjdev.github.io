@@ -9,7 +9,7 @@ color_scheme: light
 <blockquote> <p>Whether the message is outgoing</p> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">bool</span> <span class="k">$out</span>
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
-<blockquote> <p>ID of the chat where the message was sent</p><div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <aTag href="#felan"><span class="s1">int</span></aTag> <span class="k">$chatId</span>
+<blockquote> <p>ID of the chat where the message was sent</p><div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <a href="#felan"><span class="s1">int</span></a> <span class="k">$chatId</span>
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
 <h1><code>Reymon\Types\Message</code></h1>
