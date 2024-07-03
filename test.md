@@ -12,13 +12,6 @@ color_scheme: light
 <blockquote> <p>ID of the chat where the message was sent</p><div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <aTag href="#felan"><span class="s1">int</span></aTag> <span class="k">$chatId</span>
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
-felan
-
-> Just the time
-```php
-public int $date
-```
-
 <h1><code>Reymon\Types\Message</code></h1>
 
 > Represents a query sent by the user by clicking on a button.{ .note }
