@@ -24,21 +24,21 @@ color_scheme: light
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
 ### Constants
-<blockquote> <p>Class flag</p><div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <code><span class="nb">const</span> <a href="#felan"><span class="s1">int</span></a> <span class="k">$flag</span>
+<blockquote> <p>Class flag</p><div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="nb">const</span> <a href="#felan"><span class="s1">int</span></a> <span class="k">$flag</span>
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
 ### Methods
-> - Whether this message replied
+> Whether this message replied
 ```php
 isReply(): bool
 ```
 
-> - Delete message
+> Delete message
 ```php
 delete(boolean $revoke = true): void
 ```
 
-> - Mark message as read
+> Mark message as read
 ```php
 read(bool $readAll = false): boolean
 ```
