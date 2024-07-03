@@ -3,34 +3,6 @@ layout: default
 title: Test
 color_scheme: light
 ---
-
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><blockqoute>Just the time</blockqoute><br><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
-</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
-
-
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><blockqoute>Whether the message is outgoing</blockqoute><br><code><span class="nb">public</span> <span class="s1">bool</span> <span class="k">$out</span>
-</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
-
-
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><blockqoute>ID of the chat where the message was sent</blockqoute><br><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$chatId</span>
-</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
-
-foo
-
-> Just the time
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
-</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
-
-> Whether the message is outgoing
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">bool</span> <span class="k">$out</span>
-</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
-
-> ID of the chat where the message was sent
-<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$chatId</span>
-</code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
-
-foo
-
 <blockquote> <p>Just the time</p> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">public</span> <span class="s1">int</span> <span class="k">$date</span>
 </code></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div></blockquote>
 
