@@ -1,5 +1,6 @@
-a, a:visited, a:focus, a:active
+aTag, aTag:visited, aTag:focus, aTag:active
 {
+  @extend .a !optional;
   text-decoration: none;
   color: inherit;
  }
