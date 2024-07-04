@@ -7,37 +7,53 @@
     /* border: 1px solid #ddd; */
     /* border-radius: 10px; */
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
-  }
-  
-  .context h2 {
+}
+
+.context h2 {
     margin-top: 0;
     font-weight: bold;
     color: #ffffff;
-  }
-  
-  .context ul {
+}
+
+.context ul {
     list-style: none;
     padding: 0;
     margin: 0;
-  }
-  
-  .context li {
+}
+
+.context li {
     padding: 10px;
     border-bottom: 1px solid #020202;
-  }
-  
-  .context li:last-child {
+}
+
+.context li:last-child {
     border-bottom: none;
-  }
-  
-  .context span {
+}
+
+.context span {
     font-weight: bold;
     color: #12c0ff;
-  }
-  .context hr {
-      border-width: huge;
-  }
-  .context br {
+}
+.context hr {
+  border-width: huge;
+}
+.context br {
     display: block;
     margin-bottom: 10px;
-  }
+}
+
+.whitecolor {
+  color: hwb(0 100% 0%);
+}
+.redcolor {
+  color: hsl(0, 80%, 58%);
+}
+.yellowcolor {
+  color: hsl(50, 83%, 58%);
+}
+.purplecolor {
+  color: hsl(280, 100%, 57%);
+}
+.bluecolor {
+  color: hsl(212, 78%, 46%);
+}
