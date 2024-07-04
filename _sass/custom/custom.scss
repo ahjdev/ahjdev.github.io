@@ -1,12 +1,12 @@
 @font-face {
   font-family: myFirstFont;
-  src: local("FiraCode.ttf");
+  src: local("_assets/fonts/FiraCode.ttf");
 }
 
 .context {
     background-color: transparent;
     padding: 20px;
-    font-family: myFirstFont, sans-serif 
+    font-family: myFirstFont 
     /* border: 1px solid #ddd; */
     /* border-radius: 10px; */
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
