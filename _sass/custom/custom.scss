@@ -1,0 +1,38 @@
+.context {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.context h2 {
+  margin-top: 0;
+  font-weight: bold;
+  color: #333;
+}
+
+.context ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.context li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.context li:last-child {
+  border-bottom: none;
+}
+
+.context span {
+  font-weight: bold;
+  color: #00698f;
+}
+
+.context br {
+  display: block;
+  margin-bottom: 10px;
+}
