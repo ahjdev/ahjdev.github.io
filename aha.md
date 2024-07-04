@@ -3,15 +3,17 @@ layout: default
 title: Aha
 ---
 <h1 style="font-weight: bold;">Reymon\Message\Foo</h1>
-<div style="padding: 20px;">Class that has some properties and objects</div>
-<ul>
-    <li><a href="#foo">Extends</a></li>
-    <li><a href="#foo">Implements</a></li>
-    <li><a href="#foo">Traits</a></li>
-    <li><a href="#foo">Properties</a></li>
-    <li><a href="#foo">Methods</a></li>
-    <li><a href="#foo">Constants</a></li>
-</ul>
+<div style="padding: 20px;">
+    Class that has some properties and objects
+    <ul>
+        <li><a href="#foo">Extends</a></li>
+        <li><a href="#foo">Implements</a></li>
+        <li><a href="#foo">Traits</a></li>
+        <li><a href="#foo">Properties</a></li>
+        <li><a href="#foo">Methods</a></li>
+        <li><a href="#foo">Constants</a></li>
+    </ul>
+</div>
 <hr>
 <div class="context">
     <h2>Properties</h2>
