@@ -11,7 +11,7 @@ title: Aha
     <hr>
     <h2>Methods</h2>
     <ul>
-      <li><pre><span class="bluecolor">__construct</span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre>pre>Initializes this event with the given subject.</li>
+      <li><pre><span class="bluecolor">__construct</span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre>Initializes this event with the given subject.</li>
       <li><pre><span class="bluecolor">createInstance</span><span class="purplecolor">()</span>: <span class="yellowcolor">self</span></pre>Creates a new instance of a derived object and return that.</li>
       <li><pre><span>getFile(): string</span></pre>Returns the name of the file that is about to be processed.</li>
       <li><pre><span>getSubject(): object</span></pre>Returns the object that is the subject of this event.</li>
