@@ -3,7 +3,7 @@ layout: default
 title: Aha
 ---
 <h1 style="font-weight: bold;">Reymon\Message\Foo</h1>
-<div style="padding: 20px;">
+<div class="context">
     Class that has some properties and objects
     <ul style="list-style: disc;">
         <li><a href="#foo">Extends</a></li>
