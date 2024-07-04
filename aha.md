@@ -10,7 +10,7 @@ title: Aha
       <li><pre><span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>File of the foo</li>
     </ul>
     <hr>
-    <div style="border-radius: 10px; background-color: #282c34; padding: 10px;">
+    <div style="border-radius: 10px;">
     <h2>Methods</h2>
     <ul style="list-style: disc; color: #56b6c2;">
       <li><pre><span class="bluecolor">__construct</span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre>Initializes this event with the given subject.</li>
