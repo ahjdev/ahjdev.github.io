@@ -2,8 +2,8 @@
 layout: default
 title: Aha
 ---
-<h1>Reymon/Message/Foo</h1>
-Class that has some properties and objects
+<h1><b>Reymon\Message\Foo</b></h1>
+<div style="padding: 20px;">Class that has some properties and objects</div>
 <div class="context">
     <h2>Properties</h2>
     <ul style="list-style: disc;">
