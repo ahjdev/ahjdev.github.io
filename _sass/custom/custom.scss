@@ -34,7 +34,9 @@
     font-weight: bold;
     color: #12c0ff;
   }
-  
+  .context hr {
+  width: 20px; /* change the width to 400px */
+}
   .context br {
     display: block;
     margin-bottom: 10px;
