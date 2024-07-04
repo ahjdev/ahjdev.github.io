@@ -2,7 +2,7 @@
 layout: default
 title: Aha
 ---
-<h1><b>Reymon\Message\Foo</b></h1>
+<h1 style="font-weight: bold;">Reymon\Message\Foo</h1>
 <div style="padding: 20px;">Class that has some properties and objects</div>
 <ul>
     <li><a href="#foo">Extends</a></li>
