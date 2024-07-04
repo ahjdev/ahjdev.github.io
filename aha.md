@@ -18,4 +18,3 @@ color_scheme: light
       <li><span>setFile():</span> self<br>Sets the name of the file that is about to be processed.</li>
     </ul>
   </div>
-  <span>_construct():</span>
