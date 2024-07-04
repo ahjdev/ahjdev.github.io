@@ -36,3 +36,43 @@
     display: block;
     margin-bottom: 10px;
   }
+
+.property, .method, .parameter {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.property .name, .method .name, .parameter .name {
+  font-weight: bold;
+}
+
+.property .type, .method .type, .parameter .type {
+  font-style: italic;
+}
+
+.property .visibility {
+  color: #555;
+}
+
+.property .access {
+  color: #007bff;
+}
+
+.property .access .read-only {
+  color: #dc3545;
+}
+
+.method .return {
+  font-weight: normal;
+  font-style: italic;
+}
+
+.source {
+  color: #007bff;
+}
+
+.source a {
+  text-decoration: none;
+  color: #007bff;
+}
