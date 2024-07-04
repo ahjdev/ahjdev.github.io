@@ -5,8 +5,8 @@ title: Aha
 <div class="context">
     <h2>Properties</h2>
     <ul>
-      <li><span>$subject: object</span><br>Subjet of the felan</li>
-      <li><span>$file: string</span><br>File of the foo</li>
+      <li><pre>object $subjec</pre>Subjet of the felan</li>
+      <li><pre>string $file</pre>File of the foo</li>
     </ul>
     <hr>
     <h2>Methods</h2>
