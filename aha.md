@@ -8,6 +8,7 @@ title: Aha
       <li><span>$subject: object</span><br>Subjet of the felan</li>
       <li><span>$file: string</span><br>File of the foo</li>
     </ul>
+    <hr>
     <h2>Methods</h2>
     <ul>
       <li><span>__construct(): mixed</span><br>Initializes this event with the given subject.</li>
