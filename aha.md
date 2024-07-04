@@ -21,7 +21,9 @@ title: Aha
       <li><pre><span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
       <li><pre><span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>File of the foo</li>
     </ul>
-    <hr>
+</div>
+<hr>
+<div class="context">
     <h2>Methods</h2>
     <ul style="list-style: disc;">
       <li><pre><span class="bluecolor"><a href="#felan">__construct</a></span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre>Initializes this event with the given subject.</li>
