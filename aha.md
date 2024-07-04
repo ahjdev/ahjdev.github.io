@@ -2,6 +2,7 @@
 layout: default
 title: Aha
 ---
+<h1>Reymon/Message/Foo</h1>
 <div class="context">
     <h2>Properties</h2>
     <ul style="list-style: disc;">
