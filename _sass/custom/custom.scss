@@ -3,7 +3,6 @@
 .context {
     /* background-color: transparent; */
     padding: 20px;
-    font-family: Fira Code;
     /* border: 1px solid #ddd; */
     /* border-radius: 10px; */
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
@@ -29,7 +28,9 @@
 .context li:last-child {
     border-bottom: none;
 }
-
+.context pre {
+    font-family: Fira Code;
+}
 .context span {
     font-weight: bold;
 }
