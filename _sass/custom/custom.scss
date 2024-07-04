@@ -30,10 +30,9 @@
     border-bottom: none;
 }
 
-// .context span {
-//     font-weight: bold;
-//     color: #12c0ff;
-// }
+.context span {
+    font-weight: bold;
+}
 .context hr {
   border-width: huge;
 }
@@ -55,5 +54,5 @@
   color: hsl(280, 100%, 57%);
 }
 .bluecolor {
-  color: hsl(212, 78%, 46%);
+  color: #12c0ff;
 }
