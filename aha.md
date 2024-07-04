@@ -1,3 +1,7 @@
+---
+layout: default
+title: Aha
+---
 <div class="context">
     <h2>Properties</h2>
     <ul>
