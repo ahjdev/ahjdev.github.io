@@ -18,4 +18,4 @@ title: Aha
       <li><span>setFile(): self</span><br>Sets the name of the file that is about to be processed.</li>
     </ul>
 </div>
-<span style="font-family:myFirstFont">Test</span> and here it returns to normal.
+<span style="font-family:Fira Code">Test</span> and here it returns to normal.

@@ -1,12 +1,9 @@
-@font-face {
-  font-family: myFirstFont;
-  src: asset_url("fonts/FiraCode.ttf");
-}
+@import "fira_code";
 
 .context {
     /* background-color: transparent; */
     padding: 20px;
-    // font-family: myFirstFont;
+    font-family: Fira Code;
     /* border: 1px solid #ddd; */
     /* border-radius: 10px; */
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
