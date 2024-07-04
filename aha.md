@@ -2,6 +2,12 @@
 layout: default
 title: Aha
 ---
+<style>
+body {
+  font-family: "FiraCode.ttf";
+}
+</style>
+<body>
 <div class="context">
     <h2>Properties</h2>
     <ul>
@@ -60,3 +66,4 @@ title: Aha
     $queryEngine
   </div>
 </div>
+</body>
