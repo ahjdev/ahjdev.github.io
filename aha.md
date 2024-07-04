@@ -17,4 +17,4 @@ title: Aha
       <li><span>setFile(): self</span><br>Sets the name of the file that is about to be processed.</li>
     </ul>
 </div>
-test -> fr
+test -> fa
