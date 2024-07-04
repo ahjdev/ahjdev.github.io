@@ -5,7 +5,7 @@ title: Aha
 <h1 style="font-weight: bold;">Reymon\Message\Foo</h1>
 <div style="padding: 20px;">
     Class that has some properties and objects
-    <ul style="list-style: disc;>
+    <ul style="list-style: disc;">
         <li><a href="#foo">Extends</a></li>
         <li><a href="#foo">Implements</a></li>
         <li><a href="#foo">Traits</a></li>
