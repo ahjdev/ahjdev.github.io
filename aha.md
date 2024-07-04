@@ -13,7 +13,7 @@ Class that has some properties and objects
     <hr>
     <h2>Methods</h2>
     <ul style="list-style: disc;">
-      <li><a href="#felan"><pre><span class="bluecolor">__construct</span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre></a>Initializes this event with the given subject.</li>
+      <li><pre><span class="bluecolor"><a href="#felan">__construct</a></span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre>Initializes this event with the given subject.</li>
       <li><pre><span class="bluecolor">createInstance</span><span class="purplecolor">()</span>: <span class="yellowcolor">self</span></pre>Creates a new instance of a derived object and return that.</li>
       <li><pre><span>getFile(): string</span></pre>Returns the name of the file that is about to be processed.</li>
       <li><pre><span>getSubject(): object</span></pre>Returns the object that is the subject of this event.</li>
