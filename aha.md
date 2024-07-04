@@ -3,16 +3,14 @@ layout: default
 title: Aha
 ---
 <div class="context">
-    <div style="border-radius: 10px;">
     <h2>Properties</h2>
-    <ul style="list-style: disc; color: #56b6c2;">
+    <ul style="list-style: disc;">
       <li><pre><span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
       <li><pre><span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>File of the foo</li>
     </ul>
     <hr>
-    <div style="border-radius: 10px;">
     <h2>Methods</h2>
-    <ul style="list-style: disc; color: #56b6c2;">
+    <ul style="list-style: disc;">
       <li><pre><span class="bluecolor">__construct</span><span class="purplecolor">()</span>: <span class="yellowcolor">mixed</span></pre>Initializes this event with the given subject.</li>
       <li><pre><span class="bluecolor">createInstance</span><span class="purplecolor">()</span>: <span class="yellowcolor">self</span></pre>Creates a new instance of a derived object and return that.</li>
       <li><pre><span>getFile(): string</span></pre>Returns the name of the file that is about to be processed.</li>
