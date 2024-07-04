@@ -3,7 +3,7 @@ layout: default
 title: Aha
 ---
 <div class="context">
-    <div style="border-radius: 10px; background-color: #282c34; padding: 10px;">
+    <div style="border-radius: 10px;">
     <h2>Properties</h2>
     <ul style="list-style: disc; color: #56b6c2;">
       <li><pre><span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
