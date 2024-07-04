@@ -29,6 +29,5 @@ title: Aha
       <li><pre><span class="bluecolor">getFile</span><span class="purplecolor">()</span>: <span class="yellowcolor">string</span></pre>Returns the name of the file that is about to be processed.</li>
       <li><pre><span style="font-weight: bold;" class="bluecolor">getSubject</span><span class="purplecolor">()</span>: <span class="yellowcolor">object</span></pre>Returns the object that is the subject of this event.</li>
       <li><pre><span style="font-weight: bold;" class="bluecolor">setFile</span><span class="purplecolor">()</span>: <span class="yellowcolor">self</span></pre>Sets the name of the file that is about to be processed.</li>
-      <li><pre><span>setFile(): self</span></pre>Sets the name of the file that is about to be processed.</li>
     </ul>
 </div>
