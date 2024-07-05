@@ -3,6 +3,7 @@ layout: default
 title: Namespace
 ---
 <h1 style="font-weight: bold;">Reymon\Message</h1>
+<hr>
 <div class="context">
     <h2>Classes</h2>
     <ul style="list-style: disc;">
