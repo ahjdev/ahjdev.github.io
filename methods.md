@@ -34,7 +34,7 @@ title: Method
   <h2>Return Value</h2>
   <ul>
     <li>
-      <span2>Number of foo</span2>
+      <span>Number of foo</span>
     </li>
     <ul>
       <li>
