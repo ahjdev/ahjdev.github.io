@@ -12,7 +12,6 @@ title: Method
   Delete Message and blah blah
   <pre>public function delete(int $a, string $b): bool</pre>
 </div>
-<br>
 <div class="context">
   <h2>Parameters</h2>
   <hr>
@@ -39,7 +38,6 @@ title: Method
     </li>
   </ul>
 </div>
-<br>
 <div class="context">
   <h2>Throws</h2>
   <hr>
