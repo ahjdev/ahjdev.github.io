@@ -3,6 +3,7 @@ layout: default
 title: Method
 ---
 <h1 style="font-weight: bold;"><pre>GroupMessage::delete</pre></h1>
+<hr>
 <div class="context">
   Delete Message and blah blah
 </div>
@@ -13,6 +14,7 @@ title: Method
   ```php
   public function delete(int $a, string $b): bool
   ```
+
 </div>
 <br>
 <div class="context">
