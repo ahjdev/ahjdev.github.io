@@ -36,12 +36,14 @@ title: Method
     <li>
       <span2>Number of foo</span2>
     </li>
-    <li>
-      <pre>bool</pre>
-    </li>
-    <li>
-      <pre>int</pre>
-    </li>
+    <ul>
+      <li>
+        <pre>bool</pre>
+      </li>
+      <li>
+        <pre>int</pre>
+      </li>
+    </ul>
   </ul>
 </div>
 <hr>
