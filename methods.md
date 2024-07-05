@@ -27,7 +27,8 @@ title: Method
 </div>
 <br>
 <div class="context">
-  <h2>Return Value</h2> - Number of foo
+  <h2>Return Value</h2>
+  <b>Number of foo</b>
   <hr>
   <ul>
     <li>
