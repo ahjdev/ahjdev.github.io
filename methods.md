@@ -32,8 +32,10 @@ title: Method
 <hr>
 <div class="context">
   <h2>Return Value</h2>
-  <b style="padding: 20px; margin-top: 20px;margin-bottom: 20px;">Number of foo</b>
   <ul>
+    <li>
+      <span2>Number of foo</span2>
+    </li>
     <li>
       <pre>bool</pre>
     </li>
