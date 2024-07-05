@@ -10,7 +10,10 @@ title: Method
   <h2>Description</h2>
     <ul>
     <li>
-      <pre>public function delete(int $a, string $b): bool</pre> <span>Delete Message and blah blah</span>
+      <pre>public function delete(int $a, string $b): bool</pre>
+    </li>
+    <li>
+      <span>Delete Message and blah blah</span>
     </li>
   </ul>
 </div>
