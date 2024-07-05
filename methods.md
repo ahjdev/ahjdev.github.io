@@ -5,11 +5,11 @@ title: Method
 <h1 style="font-weight: bold;">
   <pre>GroupMessage::delete</pre>
 </h1>
-<span style="padding: 20px;">Delete Message and blah blah</span>
 <hr>
 <div class="context">
   <h2>Description</h2>
   <hr>
+  Delete Message and blah blah
   <pre>public function delete(int $a, string $b): bool</pre>
 </div>
 <br>
