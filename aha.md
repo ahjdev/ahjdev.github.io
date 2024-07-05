@@ -6,6 +6,7 @@ title: Aha
 <hr>
 <div class="context">
     Class that has some properties and objects
+    <hr>
     <ul style="list-style: disc;">
         <li><a href="#foo">Extends</a></li>
         <li><a href="#foo">Implements</a></li>
