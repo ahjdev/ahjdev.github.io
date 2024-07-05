@@ -5,21 +5,26 @@ title: Method
 <h2 style="font-weight: bold;"><pre>GroupMessage::delete</pre></h2>
 <div class="context">
   Delete Message and blah blah
-  <hr>
+</div>
+<div class="context">
   <h2>Description</h2>
   <hr>
 
   ```php
   public function delete(int $a, string $b): bool
   ```
-  <br>
+</div>
+<br>
+<div class="context">
   <h2>Parameters</h2>
   <hr>
   <ul>
     <li><pre>int $a</pre> <span>Number of foo</span></li>
     <li><pre>string $b</pre> <span>Message after delete</span></li>
   </ul>
-  <br>
+</div>
+<br>
+<div class="context">
   <h2>Return Value</h2>
     <hr>
     <span>Number of foo</span>
@@ -27,11 +32,14 @@ title: Method
       <li><pre>bool</pre></li>
       <li><pre>int</pre></li>
     </ul>
-  <br>
+</div>
+<br>
+<div>
   <h2>Throws</h2>
     <hr>
     <ul>
       <li><pre>Exception</pre></li>
       <li><pre>AssertException</pre></li>
     </ul>
+</div>
 </div>
