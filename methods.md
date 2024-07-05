@@ -8,8 +8,10 @@ title: Method
 <hr>
 <div class="context">
   <h2>Description</h2>
-  <span style="margin-top: 20px">Delete Message and blah blah</span>
-  <pre>public function delete(int $a, string $b): bool</pre>
+  <div style="padding: 20px;">
+    <span style="margin-top: 20px">Delete Message and blah blah</span>
+    <pre>public function delete(int $a, string $b): bool</pre>
+  </div>
 </div>
 <hr>
 <div class="context">
