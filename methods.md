@@ -2,7 +2,7 @@
 layout: default
 title: Method
 ---
-<h2 style="font-weight: bold;"><pre>GroupMessage::delete</pre></h2>
+<h1 style="font-weight: bold;"><pre>GroupMessage::delete</pre></h1>
 <div class="context">
   Delete Message and blah blah
 </div>
