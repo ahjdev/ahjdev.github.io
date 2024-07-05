@@ -8,13 +8,12 @@ title: Method
 <hr>
 <div class="context">
   <h2>Description</h2>
-  <hr>
   Delete Message and blah blah
   <pre>public function delete(int $a, string $b): bool</pre>
 </div>
+<hr>
 <div class="context">
   <h2>Parameters</h2>
-  <hr>
   <ul>
     <li>
       <pre>int $a</pre> <span>Number of foo</span>
@@ -24,11 +23,10 @@ title: Method
     </li>
   </ul>
 </div>
-<br>
+<hr>
 <div class="context">
   <h2>Return Value</h2>
   <b>Number of foo</b>
-  <hr>
   <ul>
     <li>
       <pre>bool</pre>
@@ -38,9 +36,9 @@ title: Method
     </li>
   </ul>
 </div>
+<hr>
 <div class="context">
   <h2>Throws</h2>
-  <hr>
   <ul>
     <li>
       <pre>Exception</pre>
