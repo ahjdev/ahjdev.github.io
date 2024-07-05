@@ -10,7 +10,7 @@ title: Method
   <h2>Description</h2>
   <div style="padding: 20px;">
     <span style="margin-top: 20px">Delete Message and blah blah</span>
-    <pre style="margin-top: 20px">public function delete(int $a, string $b): bool</pre>
+    <li><pre style="margin-top: 20px">public function delete(int $a, string $b): bool</pre></li>
   </div>
 </div>
 <hr>
