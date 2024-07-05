@@ -10,11 +10,7 @@ title: Method
 <div class="context">
   <h2>Description</h2>
   <hr>
-
-  ```php
-  public function delete(int $a, string $b): bool
-  ```
-
+  <pre>public function delete(int $a, string $b): bool</pre>
 </div>
 <br>
 <div class="context">
