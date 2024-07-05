@@ -2,5 +2,5 @@
 layout: default
 title: Method
 ---
-<h1 style="font-weight: bold;"><pre>GroupMessage::delete(int $a, string $b)</pre></h1>
+<h2 style="font-weight: bold;"><pre>GroupMessage::delete(int $a, string $b)</pre></h2>
 <hr>
