@@ -9,7 +9,7 @@ title: Method
 <div class="context">
   <h2>Description</h2>
   <div style="padding: 20px;">
-    <li><span style="margin-top: 20px">Delete Message and blah blah</span></li>
+    <li><b>Delete Message and blah blah</b></li>
     <pre style="margin-top: 20px">public function delete(int $a, string $b): bool</pre>
   </div>
 </div>
