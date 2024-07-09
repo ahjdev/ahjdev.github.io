@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Method
+parent: Aha
 ---
 <h1 style="font-weight: bold;">
-  <pre>GroupMessage::delete</pre>
+  <pre>Foo::delete</pre>
 </h1>
 <hr>
 <div class="context">
