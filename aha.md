@@ -2,6 +2,7 @@
 layout: default
 title: Aha
 has_children: true
+nav_enabled: false
 ---
 <h1 style="font-weight: bold;">Reymon\Message\Foo</h1>
 <hr>
