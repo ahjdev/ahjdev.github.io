@@ -2,7 +2,7 @@
 layout: default
 title: Method
 parent: Aha
-nav_enabled: false
+nav_enabled: true
 ---
 <h1 style="font-weight: bold;">
   <pre>Foo::delete</pre>
