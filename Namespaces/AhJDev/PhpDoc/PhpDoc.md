@@ -1,7 +1,6 @@
 ---
 layout: default
 title: PhpDoc
-has_childern: true
 parent: Namespaces
 grand_parent: PhpDoc
 ---
