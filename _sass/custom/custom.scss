@@ -1,61 +1,75 @@
 @import "fira_code";
 
 .context {
-    /* background-color: transparent; */
-    padding: 20px;
-    /* border: 1px solid #ddd; */
-    border-radius: 25px;
-    box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.5);
+  /* background-color: transparent; */
+  padding: 20px;
+  /* border: 1px solid #ddd; */
+  border-radius: 25px;
+  box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.5);
 }
 
 .context a {
-    color: inherit;
-}
-.context h2 {
-    margin-top: 0;
-    font-weight: bold;
-    color: #ffffff;
+  color: inherit;
 }
 
-// .context ul {
-    // list-style: none;
-    // padding: 0;
-    // margin: 0;
-// }
+.context h1 {
+  font-weight: bold;
+}
+
+.context h2 {
+  margin-top: 0;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.context ul {
+  list-style: disc;
+  padding: 0;
+  margin: 0;
+}
 
 .context li {
-    padding: 10px;
-    border-bottom: 1px solid #020202;
+  padding: 10px;
+  border-bottom: 1px solid #020202;
 }
 
 .context li:last-child {
-    border-bottom: none;
+  border-bottom: none;
 }
+
 .context pre {
-    font-family: Fira Code;
+  font-family: Fira Code;
 }
+
 .context span2 {
-    font-weight: bold;
+  font-weight: bold;
 }
+
 .context span3 {
-    font-weight: 350px;
+  font-weight: 350px;
 }
+
 .context br {
-    display: block;
-    margin-bottom: 10px;
+  display: block;
+  margin-bottom: 10px;
 }
+
 .whitecolor {
   color: hwb(0 100% 0%);
 }
+
 .redcolor {
   color: hsl(0, 80%, 58%);
 }
+
 .yellowcolor {
   color: hsl(50, 83%, 58%);
 }
+
 .purplecolor {
   color: hsl(280, 100%, 57%);
 }
+
 .bluecolor {
   color: #12c0ff;
 }
