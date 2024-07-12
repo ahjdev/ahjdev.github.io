@@ -16,7 +16,7 @@ title: Namespace
     <h2>Interfaces</h2>
     <ul style="list-style: disc;">
       <li><span>GetMessages</span><span class="label label-purple">Final</span></li>
-      <li><span>SetMessages</span><span class="label label-purple">Abstract</span></li>
-      <li><span>Felan</span><span class="label label-purple">Abstract</span></li>
+      <li><span>SetMessages</span><span class="label label-purple">Abstract</span><span class="label label-yellow">iterable</span></li>
+      <li><span>Felan</span><span class="label label-purple">Abstract</span><span class="label label-blue">readonly</span></li>
     </ul>
 </div>
