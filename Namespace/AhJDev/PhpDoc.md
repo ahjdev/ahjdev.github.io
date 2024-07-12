@@ -3,7 +3,6 @@ layout: default
 title: PhpDoc
 has_childern: true
 parent: Namespaces
-grand_parent: AhJDev
 ---
 <h1>AhJDev\PhpDoc</h1>
 <hr>
