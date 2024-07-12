@@ -1,6 +1,6 @@
 ---
-layout:"default"
-title:"PhpDoc"
+layout: default
+title: PhpDoc
 ---
 <h1>AhJDev\PhpDoc\PhpDoc</h1>
 <hr>
