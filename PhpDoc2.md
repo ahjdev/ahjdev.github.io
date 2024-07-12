@@ -1,7 +1,6 @@
 ---
 layout: default
 title: PhpDoc2
-has_childern: true
 parent: Namespaces
 ---
 <h1>AhJDev\PhpDoc</h1>
