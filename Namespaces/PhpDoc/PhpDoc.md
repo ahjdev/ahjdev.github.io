@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PhpDoc
-parent: PhpDoc
+parent: PhpDoc2
 grand_parent: Namespaces
 ---
 <h1>AhJDev\PhpDoc\PhpDoc</h1>
