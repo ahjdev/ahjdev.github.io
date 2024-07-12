@@ -9,6 +9,6 @@ title: Namespace
     <ul>
         <li>PhpDoc</li>
         <li>PhpDocBuilder</li>
-        <li>Foo</li>
+        <li>Foo2</li>
     </ul>
 </div>
