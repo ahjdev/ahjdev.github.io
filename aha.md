@@ -33,6 +33,6 @@ nav_enabled: false
       <li><pre><span class="bluecolor">createInstance</span><span class="purplecolor">()</span>: <span class="yellowcolor">self</span></pre>Creates a new instance of a derived object and return that.</li>
       <li><pre><span class="bluecolor">getFile</span><span class="purplecolor">()</span>: <span class="yellowcolor">string</span></pre>Returns the name of the file that is about to be processed.</li>
       <li><pre><span2 class="bluecolor">getSubject</span2><span2 class="purplecolor">()</span2>: <span2 class="yellowcolor">object</span2></pre>Returns the object that is the subject of this event.</li>
-      <li><pre><span3 class="bluecolor">setFile</span3><span class="purplecolor">()</span>: <span class="yellowcolor">self</span></pre>Sets the name of the file that is about to be processed.</li>
+      <li><pre><span3 class="bluecolor">setFile</span3><span class="purplecolor">()</span>: <span class="yellowcolor">self</span><span class="label label-red">deprecated</span></pre>Sets the name of the file that is about to be processed.</li>
     </ul>
 </div>
