@@ -4,9 +4,11 @@ title: Method
 parent: Aha
 nav_enabled: true
 ---
-<h1 style="font-weight: bold;">
-  <pre>Foo::delete</pre>
-</h1>
+<div class="context">
+  <h1 style="font-weight: bold;">
+    <pre>Foo::delete</pre>
+  </h1>
+</div>
 <hr>
 <div class="context">
   <h2>Description</h2>
