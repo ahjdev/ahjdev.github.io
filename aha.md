@@ -4,10 +4,12 @@ title: Aha
 has_children: true
 nav_enabled: false
 ---
-<h1 style="font-weight: bold;">Reymon\Message\Foo<span class="label label-blue">final</span><span class="label label-yellow">readonly</span></h1>
+<div class="context">
+    <h1 style="font-weight: bold;">Reymon\Message\Foo<span class="label label-blue">final</span><span class="label label-yellow">readonly</span></h1>
+    <li>Class that has some properties and objects</li>
+</div>
 <hr>
 <div class="context">
-    <h2>Class that has some properties and objects</h2>
     <ul>
         <li><a href="#foo">Extends</a></li>
         <li><a href="#foo">Implements</a></li>
