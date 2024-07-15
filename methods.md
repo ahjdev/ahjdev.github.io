@@ -5,9 +5,9 @@ parent: Aha
 nav_enabled: true
 ---
 <div class="context">
-  <h1>
+<!--   <h1> -->
     <centre><pre>Foo::delete</pre></centre>
-  </h1>
+<!--   </h1> -->
 </div>
 <hr>
 <div class="context">
