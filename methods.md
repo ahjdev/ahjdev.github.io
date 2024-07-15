@@ -6,7 +6,7 @@ nav_enabled: true
 ---
 <div class="context">
   <h1>
-    <center><pre>Foo::delete</pre></center>
+    <centre><pre>Foo::delete</pre></centre>
   </h1>
 </div>
 <hr>
