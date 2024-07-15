@@ -5,8 +5,8 @@ parent: Aha
 nav_enabled: true
 ---
 <div class="context">
-  <h1 style="font-weight: bold;">
-    <pre>Foo::delete</pre>
+  <h1>
+    <center><pre>Foo::delete</pre></center>
   </h1>
 </div>
 <hr>
