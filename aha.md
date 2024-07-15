@@ -7,7 +7,7 @@ nav_enabled: false
 <h1 style="font-weight: bold;">Reymon\Message\Foo<span class="label label-blue">final</span><span class="label label-yellow">readonly</span></h1>
 <hr>
 <div class="context">
-    <h6>Class that has some properties and objects</h6>
+    <h3>Class that has some properties and objects</h3>
     <ul>
         <li><a href="#foo">Extends</a></li>
         <li><a href="#foo">Implements</a></li>
