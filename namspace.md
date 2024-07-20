@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Namespace
+permalink: felan
 ---
 <h1 style="font-weight: bold;">AhJDev\PhpDoc</h1>
 <hr>
