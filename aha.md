@@ -23,8 +23,8 @@ nav_enabled: false
 <div class="context">
     <h2>Properties</h2>
     <ul style="list-style: disc;">
-      <li><pre><span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
-      <li><pre><span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>File of the foo<br><ul><li><span class="label label-red">return</span> array of felan</li><li><span class="label label-red">deprecated</span></li></ul></li>
+      <li><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
+      <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>File of the foo<br><ul><li><span class="label label-red">return</span> array of felan</li><li><span class="label label-red">deprecated</span></li></ul></li>
     </ul>
 </div>
 <hr>
