@@ -90,8 +90,8 @@ details.styled {
 }
 
 details[open].styled {
+  	height: 50px;
 	max-height: 500px;
-	transition: max-height 0.5s ease-in-out;
 }
 
 details.styled summary {
@@ -101,4 +101,9 @@ details.styled summary {
 
 details[open].styled summary {
 	// padding-bottom: 1em;
+}
+
+details.styled:not([open]) {
+  // transition: height 1.5s ease-in-out;
+  // height: 20px;
 }
