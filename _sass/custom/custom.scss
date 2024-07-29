@@ -85,22 +85,18 @@ details.styled {
 	// border-radius:4px;
 	// margin-bottom: 1em;
 	transition: all 0.5s ease-in-out;
-	max-height: 40px;
+	// max-height: 40px;
 	overflow: hidden;
 }
 
 details[open].styled {
-  	height: 50px;
-	max-height: 500px;
+  	// height: 50px;
+	// max-height: 500px;
 }
 
 details.styled summary {
 	outline: none;
 	cursor: pointer;
-}
-
-details[open].styled summary {
-	// padding-bottom: 1em;
 }
 
 details.styled:not([open]) {
