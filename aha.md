@@ -30,7 +30,7 @@ nav_enabled: false
             <ul>
               <li>File of the foo</li>
               <li><span class="label label-red">return</span> array of felan</li>
-              <li><span class="label label-red">deprecated</span></li></details>
+              <li><span class="label label-red">deprecated</span></li>
           </ul>
       </details></li>
     </ul>
