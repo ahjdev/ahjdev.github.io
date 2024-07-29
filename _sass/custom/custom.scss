@@ -91,6 +91,7 @@ details.styled {
 
 details[open].styled {
 	max-height: 500px;
+	transition: max-height 1.5s ease-in-out;
 }
 
 details.styled summary {
