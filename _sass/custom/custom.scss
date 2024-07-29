@@ -80,26 +80,9 @@ body {
 }
 
 details.styled {
-	padding: 1em;
-	border: 1px solid #121212;
-	border-radius:4px;
-	margin-bottom: 1em;
+	// border: 1px solid #121212;
+	// border-radius:4px;
+	// margin-bottom: 1em;
 	transition: all 1.5s ease-in-out;
-	max-height: 20px;
 	overflow: hidden;
-}
-
-details[open].styled {
-/* 	background-color: rgba(0,0,0,0.1); */
-	max-height: 500px;
-  transition: all 1.5s ease-in-out;
-}
-
-details.styled summary {
-	outline: none;
-	cursor: pointer;
-}
-
-details[open].styled summary {
-	padding-bottom: 1em;
 }
