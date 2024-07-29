@@ -27,7 +27,7 @@ nav_enabled: false
       <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>
         <details class="styled">
             <ul>
-              <summary style="list-style-type: none;">-----</summary>
+              <summary style="list-style-type: none;"><li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$test</span></pre></summary>
               <li>File of the foo</li>
               <li><span class="label label-red">return</span> array of felan</li>
               <li><span class="label label-red">deprecated</span></li></details>
