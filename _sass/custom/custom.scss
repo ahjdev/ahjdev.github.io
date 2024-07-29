@@ -75,31 +75,32 @@ body {
 .bluecolor {
   color: #12c0ff;
 }
-.expandable {
-    list-style-type: none;
+
+ul, summary {
+  list-style-type: none;
+}
+
+.container {
+  gap: 1em;
+  display: flex;
+  flex-direction: column;
 }
 
 details.styled {
-	// padding: 1em;
-	// border: 1px solid #121212;
-	// border-radius:4px;
-	// margin-bottom: 1em;
-	transition: all 0.5s ease-in-out;
-	max-height: 40px;
-	max-height: 100%;
-	overflow: hidden;
+  padding: 1em;
+  border: 1px solid #121212;
+  border-radius: 3px;
 }
 
 details[open].styled {
-	max-height: 500px;
 }
 
 details.styled summary {
-	outline: none;
-	cursor: pointer;
+  outline: none;
+  cursor: pointer;
+  transition: all 100ms ease-out;
 }
 
-details.styled:not([open]) {
-  // transition: height 1.5s ease-in-out;
-  // height: 20px;
+details[open].styled summary {
+  margin-bottom: 1em;
 }
