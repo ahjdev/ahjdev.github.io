@@ -84,14 +84,13 @@ details.styled {
 	// border: 1px solid #121212;
 	// border-radius:4px;
 	// margin-bottom: 1em;
-	transition: all 1.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
 	max-height: 40px;
 	overflow: hidden;
 }
 
 details[open].styled {
 	max-height: 500px;
-  	transition: all 1.5s ease-in-out;
 }
 
 details.styled summary {
