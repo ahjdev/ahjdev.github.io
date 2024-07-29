@@ -24,7 +24,16 @@ nav_enabled: false
     <h2>Properties</h2>
     <ul style="list-style: disc;">
       <li><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
-      <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre><ul><li>File of the foo</li><li><span class="label label-red">return</span> array of felan</li><li><span class="label label-red">deprecated</span></li></ul></li>
+      <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>
+        <details class="styled">
+            <ul>
+              <summary style="list-style-type: none;">-----</summary>
+              <li>File of the foo</li>
+              <li><span class="label label-red">return</span> array of felan</li>
+              <li><span class="label label-red">deprecated</span></li></details>
+          </ul>
+            </details>
+      </li>
     </ul>
 </div>
 <hr>
