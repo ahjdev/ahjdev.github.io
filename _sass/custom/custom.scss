@@ -80,7 +80,12 @@ body {
 }
 
 details.styled {
+	// padding: 1em;
+	// border: 1px solid #121212;
+	// border-radius:4px;
+	// margin-bottom: 1em;
 	transition: all 1.5s ease-in-out;
+	max-height: 20px;
 	overflow: hidden;
 }
 
@@ -95,5 +100,5 @@ details.styled summary {
 }
 
 details[open].styled summary {
-	padding-bottom: 1em;
+	// padding-bottom: 1em;
 }
