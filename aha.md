@@ -23,7 +23,7 @@ nav_enabled: false
 <div class="context">
     <h2>Properties</h2>
     <ul class="container">
-      <li><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre><br>Subjet of the felan</li>
+      <li><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
       <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre> - Subjet of the felan</li>
       <li><details class="styled">
               <summary style="list-style-type: none;"><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$test</span></pre></summary>
