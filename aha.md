@@ -4,6 +4,7 @@ title: Aha
 has_children: true
 nav_enabled: false
 ---
+# Aha
 <div class="context">
     <h1 style="font-weight: bold;">Reymon\Message\Foo<span class="label label-blue">final</span><span class="label label-yellow">readonly</span><span class="label label-blue"></span></h1>
     <li>Class that has some properties and objects</li>
