@@ -24,7 +24,13 @@ nav_enabled: false
 <div class="context">
     <h2>Properties</h2>
     <ul class="container">
-      <li id="felan"><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan<button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></li>
+      <li id="felan"><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre></div><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon">
+                <use xlink:href="#svg-copy"></use>
+            </svg></button><button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24"
+                class="copy-icon">
+                <use xlink:href="#svg-copy"></use>
+            </svg></button>
+    </div>Subjet of the felan</li>
       <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>  - Subjet of the felan</li>
       <li><details class="styled">
               <summary style="list-style-type: none;"><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$test</span></pre></summary>
