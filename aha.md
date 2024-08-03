@@ -24,7 +24,11 @@ nav_enabled: false
 <div class="context">
     <h2>Properties</h2>
     <ul class="container">
-      <li id="felan"><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre>Subjet of the felan</li>
+      <li id="felan"><pre><span class="purplecolor">public</span> <span class="yellowcolor">object</span> <span class="redcolor">$subject</span></pre><ul style="list-style-type: none">
+              <li>File of the foo</li>
+              <li><span class="label label-red">return</span> array of felan</li>
+              <li><span class="label label-red">deprecated</span>Deprecated since version 2.0</li>
+          </ul></li>
       <li><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$file</span></pre>  - Subjet of the felan<span class="label label-red">deprecated</span>Deprecated since version 2.0</li>
       <li><details class="styled">
               <summary style="list-style-type: none;"><pre><span class="purplecolor">protected</span> <span class="yellowcolor">string</span> <span class="redcolor">$test</span></pre></summary>
