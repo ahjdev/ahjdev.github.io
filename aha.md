@@ -31,7 +31,7 @@ nav_enabled: false
             <ul style="list-style-type: none">
               <li>File of the foo</li>
               <li><span class="label label-red">return</span> array of felan</li>
-              <li><span class="label label-red">deprecated</span></li>
+              <li><span class="label label-red">deprecated</span>Deprecated since version 2.0</li>
           </ul>
       </details></li>
     </ul>
